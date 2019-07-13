@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/soniyatech/sam/issues"
   },
-  "homepage": "https://github.com/soniyatech/sam#readme"
+  "homepage": "https://github.com/soniyatech/sam#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
